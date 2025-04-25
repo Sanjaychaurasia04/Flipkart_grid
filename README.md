@@ -96,7 +96,11 @@ EXP: 12/04/2025
 Advanced to the penultimate round of Flipkart Grid 6.0 Hackathon, this project was recognized for its dual-vision system — estimating shelf life and validating expiry — enabling automation and intelligence in perishable item handling.
 
 # 📬 Contact
+
 Sanjay Chaurasia
+
 📧 sanjaychaurasi22@gmail.com
+
 🔗 LinkedIn(https://www.linkedin.com/in/sanjay-chaurasia-822001256/)
+
 🐙 GitHub(https://github.com/Sanjaychaurasia04/)
